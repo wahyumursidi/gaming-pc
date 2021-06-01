@@ -1,0 +1,11 @@
+PC gaming atau komputer gaming adalah komputer yang dirakit sesuai dengan kebutuhan gaming, cocok untuk yang punya hobi gaming dan juga para gamers profesional
+Komputer gaming sendiri sebenarnya adalah perangkat yang dilengkapi dengan komponen berkekuatan tinggi.
+Walaupun ada pula kelas komputer gaming yang diperuntukkan untuk pemula, dengan nama Entry-level Gaming, tetapi tetap saja standarnya ada di atas komputer biasa.
+Pada dasarnya, komputer gaming dicirikan oleh keberadaan satu komponen yang sangat penting untuk aplikasi berbasis grafis seperti game, yaitu graphics card.
+
+spek minimum untuk pc gaming sendiri yaitu : 
+Operating System: Windows 10
+Processor: Intel Core i5-6600K @ 3.5 GHz
+Memory: 8 GB RAM
+Graphics: NVIDIA GeForce GTX 1070 8GB
+Hard Drive: 1TB HDD
